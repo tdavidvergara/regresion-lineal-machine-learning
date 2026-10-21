@@ -15,8 +15,6 @@ Sebastián Giraldo
 Violeta España
 
 Murillo
->>>>>>> 5590439 (Update README.md)
----
 
 ## Descripción del proyecto
 
