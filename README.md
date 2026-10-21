@@ -5,10 +5,10 @@
 **Asignatura:** Aprendizaje Automático  
 **Profesor:** Juan Camilo Giraldo Londoño  
 **Integrantes:** 
-David Alberto Vergara Tabares
-Sebastián Giraldo
-Violeta España
-Murillo
+David Alberto Vergara Tabares            
+Sebastián Giraldo Acosta       
+Violeta Isabella España Bolaños        
+Murillo      
 ---
 
 ## Descripción del proyecto
