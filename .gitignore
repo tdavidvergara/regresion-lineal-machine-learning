@@ -1,0 +1,8 @@
+# Entorno virtual de uv
+.venv/
+
+# Copias automáticas de Jupyter
+.ipynb_checkpoints/
+
+# Caché de Python
+__pycache__/
