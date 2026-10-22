@@ -85,7 +85,7 @@ Los modelos se evaluarán sobre los conjuntos de entrenamiento y validación, co
 
 Se analizarán las diferencias entre los métodos, su capacidad predictiva y su comportamiento frente a posibles problemas de generalización.
 
-## 📈 Métricas de evaluación
+## Métricas de evaluación
 
 Se utilizarán las siguientes métricas para medir el rendimiento de los modelos:
 
