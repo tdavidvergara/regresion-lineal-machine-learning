@@ -10,11 +10,7 @@
         C. Diagramas de correlación- 
         D. Ingeniería de características
     4 REGRESION LINEAL
-        A. Linea base
-        B. EDA
-        C. Con EDA + log del objetivo
-        D. Bonus: un modelo no lineal (gradient boosting) con el mismo preprocesamiento
-        E. Método 1: Ecuación Normal analítica
-        F. Método 2: Scikit-learn
-        G. Método 3: Descenso del Gradiente
+        A.Método 1: Ecuación Normal analítica
+        B.Método 2: Scikit-learn
+        C. Método 3: Descenso del Gradiente
     5. RESUMEN DE DECISIONES DEL EDA Y PREGUNTAS DE ANÁLISIS
