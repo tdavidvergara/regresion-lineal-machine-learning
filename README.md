@@ -14,7 +14,7 @@ Sebastián Giraldo
 
 Violeta España
 
-Murillo
+Luis Felipe Murillo Matallana
 
 ## Descripción del proyecto
 
