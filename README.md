@@ -16,6 +16,8 @@ Violeta España
 
 Luis Felipe Murillo Matallana
 
+Juan David Velasco
+
 ## Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar un conjunto de datos (*dataset*) para resolver un problema de regresión mediante la implementación y evaluación de diferentes métodos de regresión lineal.
